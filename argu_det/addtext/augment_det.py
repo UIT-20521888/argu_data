@@ -10,7 +10,7 @@ def get_parser():
     parser.add_argument("--output_data_folder", required=True)
     parser.add_argument("--file_language", required=True)
     parser.add_argument("--foder_fonts", required=True)
-    parser.add_argument("--random_seed",required=True)
+    # parser.add_argument("--random_seed",required=True)
     return parser.parse_args()
     
 def get_font(foder_fonts):
