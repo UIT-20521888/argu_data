@@ -21,4 +21,4 @@ For exmple:
 python3 argu_det/addtext/augment_det.py --input_bg_image ./images_1/bg_img --file_language argu_det/campos --foder_fonts argu_det/fonts --output_data_folder data_5500
 ```
 ### 2. How to argument data reg?
-you need to follow the steps here the steps [here](./argu_reg)
+You need to follow the steps [here](./argu_reg)
